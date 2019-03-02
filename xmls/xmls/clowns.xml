@@ -1,0 +1,119 @@
+<item>
+  <title>[B]******** 24/7 Stuff ********[/B]</title>
+  <thumbnail></thumbnail>
+</item>
+
+<dir>
+  <name>24/7 Movies</name>
+  <link>http://13clowns.com/13xmls/247movies.xml</link>
+  <animated_thumbnail></animated_thumbnail>
+  <thumbnail></thumbnail>
+  <animated_fanart></animated_fanart>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <name>24/7 TV Shows</name>
+  <link>http://13clowns.com/13xmls/247shows.xml</link>
+  <animated_thumbnail></animated_thumbnail>
+  <thumbnail></thumbnail>
+  <animated_fanart></animated_fanart>
+  <fanart></fanart>
+</dir>
+
+<item>
+  <title>[B]******** Live Stuff ********[/B]</title>
+  <thumbnail></thumbnail>
+</item>
+
+<plugin>
+  <title>USA Live TV</title>
+  <link>http://13clowns.com/13xmls/USA.m3u</link>
+</plugin>
+
+<plugin>
+  <title>Canada Live TV</title>
+  <link>http://13clowns.com/13xmls/canada.m3u</link>
+</plugin>
+
+<plugin>
+  <title>UK Live TV</title>
+  <link>http://13clowns.com/13xmls/uk.m3u</link>
+</plugin>
+
+<dir>
+  <name>Sports</name>
+  <link>http://13clowns.com/13xmls/sport.xml</link>
+  <animated_thumbnail></animated_thumbnail>
+  <thumbnail></thumbnail>
+  <animated_fanart></animated_fanart>
+  <fanart></fanart>
+</dir>
+
+<plugin>
+  <title>IPTV All Other Channels</title>
+  <link>http://13clowns.com/13xmls/iptv.m3u</link>
+</plugin>
+
+<item>
+  <title>[B]******** 1 Click Movies ********[/B]</title>
+  <thumbnail></thumbnail>
+</item>
+
+<dir>
+  <name>4K Ultra HD Movies[</name>
+  <link>http://venomrepo.xyz/paul/xmls1/4kfree.xml</link>
+  <animated_thumbnail></animated_thumbnail>
+  <thumbnail></thumbnail>
+  <animated_fanart></animated_fanart>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <name>One Click Films[</name>
+  <link>http://venomrepo.xyz/paul/xmls1/1click.xml</link>
+  <animated_thumbnail></animated_thumbnail>
+  <thumbnail></thumbnail>
+  <animated_fanart></animated_fanart>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <name>One Click Collections[</name>
+  <link>http://venomrepo.xyz/paul/xmls1/1clickcollection.xml</link>
+  <animated_thumbnail></animated_thumbnail>
+  <thumbnail></thumbnail>
+  <animated_fanart></animated_fanart>
+  <fanart></fanart>
+</dir>
+
+<item>
+  <title>[B]******** Kids ********[/B]</title>
+  <thumbnail></thumbnail>
+</item>
+
+ <dir>
+  <title>Kids Boxset</title>
+  <link>http://venomrepo.xyz/paul/xmls1/kids_boxset.xml</link>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+</dir>
+
+<dir>
+  <title>1Click Kids</title>
+  <link>http://venomrepo.xyz/paul/xmls1/1clickkids.xml</link>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+</dir>
+
+<dir>
+  <title>Random Kids</title>
+  <link>http://venomrepo.xyz/paul/xmls1/indexer%204.xml</link>
+  <thumbnail>http://venomrepo.xyz/paul/art/kids.png</thumbnail>
+  <fanart>http://venomrepo.xyz/paul/art/KIDS.jpg</fanart>
+</dir>
+
+<item>
+  <title>[B]======== Paul Frank, We Thank you ========[/B]</title>
+  <thumbnail></thumbnail>
+</item>
