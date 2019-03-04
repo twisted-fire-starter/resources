@@ -14,11 +14,6 @@
 </plugin>
 
 <plugin>
-  <title>Porn VOD</title>
-  <link>https://raw.githubusercontent.com/13Clowns/resources/master/xmls/xmls/porn2.m3u</link>
-</plugin>
-
-<plugin>
   <title>Master Porn List</title>
-  <link>https://raw.githubusercontent.com/13Clowns/resources/master/xmls/xmls/masterporn.m3u8</link>
+  <link>https://raw.githubusercontent.com/13Clowns/resources/master/xmls/xmls/masterporn.m3u</link>
 </plugin>
